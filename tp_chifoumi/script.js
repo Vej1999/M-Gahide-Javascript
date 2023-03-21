@@ -24,7 +24,7 @@ function calculerResultat(monCoup, coupOrdi) {}
  */
 function coupAleatoire() {
   return Math.floor(Math.random() * 3);
-}
+} 
 
 /**
  * Mise en place d'une nouvelle partie
